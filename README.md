@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/venuthothalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venuthothalla/" height="30" width="40" /></a>
-<a href="https://instagram.com/venu.t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venu.t" height="30" width="40" /></a>
+<a href="https://instagram.com/___venu.t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___venu.t" height="30" width="40" margin="10" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/venu_yadav337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/venu_yadav337" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/venu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/venu_/" height="30" width="40" /></a>
 </p>
