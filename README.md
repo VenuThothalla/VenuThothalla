@@ -1,10 +1,10 @@
-<Script>
+<style>
   @media (prefers-color-scheme: dark) {
     .icon-container {
       background-color: white !important;
     }
   }
-</Script>
+</style>
 
 <h1 align="center">Hi 👋, I'm Venu Thothalla</h1>
 <h3 align="center">A passionate Software developer</h3>
